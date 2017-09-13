@@ -51,4 +51,6 @@ NOTE: This application was configured to run in http://localhost:53907
 Kindly refer http://csharp-video-tutorials.blogspot.in/2016/09/aspnet-web-api-tutorial-for-beginners.html for ASP.NET WebAPI tutorials. 
 This example is based on a similar example illustrated in the above link.
 Videos from 18 to 29 explain authentication in WebAPI. Kindly refer videos 18 and 19 for setting up your Google and Facebook Log-In apps.
+
+
 Kindly re-install the nuGet packages if prompted.
