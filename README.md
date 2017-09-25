@@ -1,6 +1,6 @@
 # ASP.NET-WebAPI-Authentication
 
-This is an example of Basic and Bearer Token authentication in ASP.NET WebAPI 2.0. It also includes the code for Google and Faceook Log-In.
+This is an example of Basic and Bearer Token authentication in ASP.NET WebAPI 2.0. It also includes the code for Google and Faceook Log-In. UI is developed using HTML, Bootstrap and jQuery. 
 
 Execution: LogIn page is loaded when the application starts. A user may log in using Facebook/Google credentials. Alternatively, a user may register in to the local DB using Register page and use these credentials for logging in. After the successful log in, the user is routed to a protected page which lists employees.
 
